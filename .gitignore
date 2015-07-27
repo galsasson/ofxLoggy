@@ -1,3 +1,7 @@
+# XCode
+xcuserdata/
+xcshareddata/
+
 # Compiled Object files
 *.slo
 *.lo
